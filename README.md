@@ -1,5 +1,5 @@
 # dice-game
-Vanilla JS Dice Game
+Vanilla JS Dice Game (NEW ES6 Edition)
 
 GAME RULES:
 - The game has 2 players, playing in rounds
